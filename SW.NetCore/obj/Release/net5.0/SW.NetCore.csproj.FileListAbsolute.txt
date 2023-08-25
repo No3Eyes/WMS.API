@@ -1,0 +1,87 @@
+D:\專案\WMS\SW_WMS\SW.NetCore\bin\Release\net5.0\SW.NetCore.deps.json
+D:\專案\WMS\SW_WMS\SW.NetCore\bin\Release\net5.0\SW.NetCore.dll
+D:\專案\WMS\SW_WMS\SW.NetCore\bin\Release\net5.0\ref\SW.NetCore.dll
+D:\專案\WMS\SW_WMS\SW.NetCore\bin\Release\net5.0\SW.NetCore.pdb
+D:\專案\WMS\SW_WMS\SW.NetCore\obj\Release\net5.0\SW.NetCore.csproj.AssemblyReference.cache
+D:\專案\WMS\SW_WMS\SW.NetCore\obj\Release\net5.0\SW.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\專案\WMS\SW_WMS\SW.NetCore\obj\Release\net5.0\SW.NetCore.AssemblyInfoInputs.cache
+D:\專案\WMS\SW_WMS\SW.NetCore\obj\Release\net5.0\SW.NetCore.AssemblyInfo.cs
+D:\專案\WMS\SW_WMS\SW.NetCore\obj\Release\net5.0\SW.NetCore.csproj.CoreCompileInputs.cache
+D:\專案\WMS\SW_WMS\SW.NetCore\obj\Release\net5.0\SW.NetCore.dll
+D:\專案\WMS\SW_WMS\SW.NetCore\obj\Release\net5.0\ref\SW.NetCore.dll
+D:\專案\WMS\SW_WMS\SW.NetCore\obj\Release\net5.0\SW.NetCore.pdb
+D:\專案\TSRC 台橡\SW.NetCore\bin\Release\net5.0\SW.NetCore.deps.json
+D:\專案\TSRC 台橡\SW.NetCore\bin\Release\net5.0\SW.NetCore.dll
+D:\專案\TSRC 台橡\SW.NetCore\bin\Release\net5.0\ref\SW.NetCore.dll
+D:\專案\TSRC 台橡\SW.NetCore\bin\Release\net5.0\SW.NetCore.pdb
+D:\專案\TSRC 台橡\SW.NetCore\obj\Release\net5.0\SW.NetCore.csproj.AssemblyReference.cache
+D:\專案\TSRC 台橡\SW.NetCore\obj\Release\net5.0\SW.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\專案\TSRC 台橡\SW.NetCore\obj\Release\net5.0\SW.NetCore.AssemblyInfoInputs.cache
+D:\專案\TSRC 台橡\SW.NetCore\obj\Release\net5.0\SW.NetCore.AssemblyInfo.cs
+D:\專案\TSRC 台橡\SW.NetCore\obj\Release\net5.0\SW.NetCore.csproj.CoreCompileInputs.cache
+D:\專案\TSRC 台橡\SW.NetCore\obj\Release\net5.0\SW.NetCore.dll
+D:\專案\TSRC 台橡\SW.NetCore\obj\Release\net5.0\ref\SW.NetCore.dll
+D:\專案\TSRC 台橡\SW.NetCore\obj\Release\net5.0\SW.NetCore.pdb
+C:\專案\TSRC 台橡\SW.NetCore\bin\Release\net5.0\SW.NetCore.deps.json
+C:\專案\TSRC 台橡\SW.NetCore\bin\Release\net5.0\SW.NetCore.dll
+C:\專案\TSRC 台橡\SW.NetCore\bin\Release\net5.0\ref\SW.NetCore.dll
+C:\專案\TSRC 台橡\SW.NetCore\bin\Release\net5.0\SW.NetCore.pdb
+C:\專案\TSRC 台橡\SW.NetCore\obj\Release\net5.0\SW.NetCore.csproj.AssemblyReference.cache
+C:\專案\TSRC 台橡\SW.NetCore\obj\Release\net5.0\SW.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\專案\TSRC 台橡\SW.NetCore\obj\Release\net5.0\SW.NetCore.AssemblyInfoInputs.cache
+C:\專案\TSRC 台橡\SW.NetCore\obj\Release\net5.0\SW.NetCore.AssemblyInfo.cs
+C:\專案\TSRC 台橡\SW.NetCore\obj\Release\net5.0\SW.NetCore.csproj.CoreCompileInputs.cache
+C:\專案\TSRC 台橡\SW.NetCore\obj\Release\net5.0\SW.NetCore.dll
+C:\專案\TSRC 台橡\SW.NetCore\obj\Release\net5.0\ref\SW.NetCore.dll
+C:\專案\TSRC 台橡\SW.NetCore\obj\Release\net5.0\SW.NetCore.pdb
+C:\專案\NXN\SW.NetCore\bin\Release\net5.0\SW.NetCore.deps.json
+C:\專案\NXN\SW.NetCore\bin\Release\net5.0\SW.NetCore.dll
+C:\專案\NXN\SW.NetCore\bin\Release\net5.0\ref\SW.NetCore.dll
+C:\專案\NXN\SW.NetCore\bin\Release\net5.0\SW.NetCore.pdb
+C:\專案\NXN\SW.NetCore\obj\Release\net5.0\SW.NetCore.csproj.AssemblyReference.cache
+C:\專案\NXN\SW.NetCore\obj\Release\net5.0\SW.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\專案\NXN\SW.NetCore\obj\Release\net5.0\SW.NetCore.AssemblyInfoInputs.cache
+C:\專案\NXN\SW.NetCore\obj\Release\net5.0\SW.NetCore.AssemblyInfo.cs
+C:\專案\NXN\SW.NetCore\obj\Release\net5.0\SW.NetCore.csproj.CoreCompileInputs.cache
+C:\專案\NXN\SW.NetCore\obj\Release\net5.0\SW.NetCore.dll
+C:\專案\NXN\SW.NetCore\obj\Release\net5.0\ref\SW.NetCore.dll
+C:\專案\NXN\SW.NetCore\obj\Release\net5.0\SW.NetCore.pdb
+D:\SW\客戶專案\精聯\台橡\大社廠\倉儲管理系統\程式碼\SW.TSRC.WMS\SW.NetCore\bin\Release\net5.0\SW.NetCore.deps.json
+D:\SW\客戶專案\精聯\台橡\大社廠\倉儲管理系統\程式碼\SW.TSRC.WMS\SW.NetCore\bin\Release\net5.0\SW.NetCore.dll
+D:\SW\客戶專案\精聯\台橡\大社廠\倉儲管理系統\程式碼\SW.TSRC.WMS\SW.NetCore\bin\Release\net5.0\ref\SW.NetCore.dll
+D:\SW\客戶專案\精聯\台橡\大社廠\倉儲管理系統\程式碼\SW.TSRC.WMS\SW.NetCore\bin\Release\net5.0\SW.NetCore.pdb
+D:\SW\客戶專案\精聯\台橡\大社廠\倉儲管理系統\程式碼\SW.TSRC.WMS\SW.NetCore\obj\Release\net5.0\SW.NetCore.csproj.AssemblyReference.cache
+D:\SW\客戶專案\精聯\台橡\大社廠\倉儲管理系統\程式碼\SW.TSRC.WMS\SW.NetCore\obj\Release\net5.0\SW.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\SW\客戶專案\精聯\台橡\大社廠\倉儲管理系統\程式碼\SW.TSRC.WMS\SW.NetCore\obj\Release\net5.0\SW.NetCore.AssemblyInfoInputs.cache
+D:\SW\客戶專案\精聯\台橡\大社廠\倉儲管理系統\程式碼\SW.TSRC.WMS\SW.NetCore\obj\Release\net5.0\SW.NetCore.AssemblyInfo.cs
+D:\SW\客戶專案\精聯\台橡\大社廠\倉儲管理系統\程式碼\SW.TSRC.WMS\SW.NetCore\obj\Release\net5.0\SW.NetCore.csproj.CoreCompileInputs.cache
+D:\SW\客戶專案\精聯\台橡\大社廠\倉儲管理系統\程式碼\SW.TSRC.WMS\SW.NetCore\obj\Release\net5.0\SW.NetCore.dll
+D:\SW\客戶專案\精聯\台橡\大社廠\倉儲管理系統\程式碼\SW.TSRC.WMS\SW.NetCore\obj\Release\net5.0\ref\SW.NetCore.dll
+D:\SW\客戶專案\精聯\台橡\大社廠\倉儲管理系統\程式碼\SW.TSRC.WMS\SW.NetCore\obj\Release\net5.0\SW.NetCore.pdb
+D:\SW\客戶專案\精聯\海光\程式碼\SW.NetCore\bin\Release\net5.0\SW.NetCore.deps.json
+D:\SW\客戶專案\精聯\海光\程式碼\SW.NetCore\bin\Release\net5.0\SW.NetCore.dll
+D:\SW\客戶專案\精聯\海光\程式碼\SW.NetCore\bin\Release\net5.0\ref\SW.NetCore.dll
+D:\SW\客戶專案\精聯\海光\程式碼\SW.NetCore\bin\Release\net5.0\SW.NetCore.pdb
+D:\SW\客戶專案\精聯\海光\程式碼\SW.NetCore\obj\Release\net5.0\SW.NetCore.csproj.AssemblyReference.cache
+D:\SW\客戶專案\精聯\海光\程式碼\SW.NetCore\obj\Release\net5.0\SW.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\SW\客戶專案\精聯\海光\程式碼\SW.NetCore\obj\Release\net5.0\SW.NetCore.AssemblyInfoInputs.cache
+D:\SW\客戶專案\精聯\海光\程式碼\SW.NetCore\obj\Release\net5.0\SW.NetCore.AssemblyInfo.cs
+D:\SW\客戶專案\精聯\海光\程式碼\SW.NetCore\obj\Release\net5.0\SW.NetCore.csproj.CoreCompileInputs.cache
+D:\SW\客戶專案\精聯\海光\程式碼\SW.NetCore\obj\Release\net5.0\SW.NetCore.dll
+D:\SW\客戶專案\精聯\海光\程式碼\SW.NetCore\obj\Release\net5.0\ref\SW.NetCore.dll
+D:\SW\客戶專案\精聯\海光\程式碼\SW.NetCore\obj\Release\net5.0\SW.NetCore.pdb
+D:\SW\客戶專案\台虹\生產物流課\程式碼\SW.NetCore\bin\Release\net5.0\SW.NetCore.deps.json
+D:\SW\客戶專案\台虹\生產物流課\程式碼\SW.NetCore\bin\Release\net5.0\SW.NetCore.dll
+D:\SW\客戶專案\台虹\生產物流課\程式碼\SW.NetCore\bin\Release\net5.0\ref\SW.NetCore.dll
+D:\SW\客戶專案\台虹\生產物流課\程式碼\SW.NetCore\bin\Release\net5.0\SW.NetCore.pdb
+D:\SW\客戶專案\台虹\生產物流課\程式碼\SW.NetCore\obj\Release\net5.0\SW.NetCore.csproj.AssemblyReference.cache
+D:\SW\客戶專案\台虹\生產物流課\程式碼\SW.NetCore\obj\Release\net5.0\SW.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\SW\客戶專案\台虹\生產物流課\程式碼\SW.NetCore\obj\Release\net5.0\SW.NetCore.AssemblyInfoInputs.cache
+D:\SW\客戶專案\台虹\生產物流課\程式碼\SW.NetCore\obj\Release\net5.0\SW.NetCore.AssemblyInfo.cs
+D:\SW\客戶專案\台虹\生產物流課\程式碼\SW.NetCore\obj\Release\net5.0\SW.NetCore.csproj.CoreCompileInputs.cache
+D:\SW\客戶專案\台虹\生產物流課\程式碼\SW.NetCore\obj\Release\net5.0\SW.NetCore.dll
+D:\SW\客戶專案\台虹\生產物流課\程式碼\SW.NetCore\obj\Release\net5.0\ref\SW.NetCore.dll
+D:\SW\客戶專案\台虹\生產物流課\程式碼\SW.NetCore\obj\Release\net5.0\SW.NetCore.pdb
+D:\SW\客戶專案\台虹\生產物流課\程式碼\SW.NetCore\bin\Release\net5.0\DapperExtensions.Oracle.dll
+D:\SW\客戶專案\台虹\生產物流課\程式碼\SW.NetCore\bin\Release\net5.0\DapperExtensions.Oracle.pdb
+D:\SW\客戶專案\台虹\生產物流課\程式碼\SW.NetCore\obj\Release\net5.0\SW.NetCore.csproj.CopyComplete

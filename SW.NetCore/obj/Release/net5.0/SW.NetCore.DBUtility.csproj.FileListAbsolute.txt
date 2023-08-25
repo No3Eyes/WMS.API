@@ -1,0 +1,11 @@
+D:\SW\客戶專案\聖煒\WMS\程式碼\SW_WMS\SW.NetCore.DBUtility\bin\Release\net5.0\SW.NetCore.DBUtility.deps.json
+D:\SW\客戶專案\聖煒\WMS\程式碼\SW_WMS\SW.NetCore.DBUtility\bin\Release\net5.0\SW.NetCore.DBUtility.dll
+D:\SW\客戶專案\聖煒\WMS\程式碼\SW_WMS\SW.NetCore.DBUtility\bin\Release\net5.0\ref\SW.NetCore.DBUtility.dll
+D:\SW\客戶專案\聖煒\WMS\程式碼\SW_WMS\SW.NetCore.DBUtility\bin\Release\net5.0\SW.NetCore.DBUtility.pdb
+D:\SW\客戶專案\聖煒\WMS\程式碼\SW_WMS\SW.NetCore.DBUtility\obj\Release\net5.0\SW.NetCore.DBUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\SW\客戶專案\聖煒\WMS\程式碼\SW_WMS\SW.NetCore.DBUtility\obj\Release\net5.0\SW.NetCore.DBUtility.AssemblyInfoInputs.cache
+D:\SW\客戶專案\聖煒\WMS\程式碼\SW_WMS\SW.NetCore.DBUtility\obj\Release\net5.0\SW.NetCore.DBUtility.AssemblyInfo.cs
+D:\SW\客戶專案\聖煒\WMS\程式碼\SW_WMS\SW.NetCore.DBUtility\obj\Release\net5.0\SW.NetCore.DBUtility.csproj.CoreCompileInputs.cache
+D:\SW\客戶專案\聖煒\WMS\程式碼\SW_WMS\SW.NetCore.DBUtility\obj\Release\net5.0\SW.NetCore.DBUtility.dll
+D:\SW\客戶專案\聖煒\WMS\程式碼\SW_WMS\SW.NetCore.DBUtility\obj\Release\net5.0\ref\SW.NetCore.DBUtility.dll
+D:\SW\客戶專案\聖煒\WMS\程式碼\SW_WMS\SW.NetCore.DBUtility\obj\Release\net5.0\SW.NetCore.DBUtility.pdb
